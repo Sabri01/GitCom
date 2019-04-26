@@ -1,4 +1,4 @@
-			A little lookup for commands I use frequently
+
 
 			Commit all edited files and add a message
 			git commit -a -m "My commit"
